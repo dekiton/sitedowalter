@@ -1,0 +1,50 @@
+.titulo{text-align: center;
+    color: white;
+    font-size: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+body{ font-family: Comic Sans,Comic Sans MS,cursive;
+ background-image: url(https://i.pinimg.com/564x/e0/cf/3d/e0cf3d2641f9b11aed258330d5972380.jpg)
+ ;
+}
+.principal { margin-left:690px;
+}
+.foto2{
+    margin-left:565px;
+    margin-top: 10px;
+}
+.foto3{
+    margin-left:135px ;
+}
+p{ text-align: left;
+    }
+h1{text-align:center}
+h2{text-align: center;
+font-size: 50px;}
+.texto1{
+    color: yellow;
+    font-size: 25px;
+    margin-right:470px
+    
+}
+
+
+   .texto2{
+    color: yellow;
+   margin-top: 40px;
+   margin-bottom: 40px;
+   margin-right:470px
+   }
+   .texto3{
+    color: white;
+    font-size: 25px;
+    margin-right:470px
+   }
+   .textoamarelo{
+    color: yellow;
+    text-align: center;
+    margin-right:470px
+
+}
+    
